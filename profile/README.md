@@ -6,6 +6,8 @@
 
 Welcome to the official GitHub organization for the Hackathon Team of the Developer Club at Western Michigan University!
 
+![Darts Mod](assets/github_x_wmuhack.png)
+
 ### About Us
 
 We are a passionate group of student developers from the [Developer Club at WMU](https://discord.com/invite/G9yE5s6NFM) Our goal is to collaborate, learn, and build innovative projects during hackathons. We participate in various local, national, and online hackathons, tackling diverse challenges and exploring new technologies.
