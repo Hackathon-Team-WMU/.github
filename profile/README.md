@@ -9,7 +9,7 @@
 
 Welcome to the official GitHub organization for the Hackathon Team of the Developer Club at Western Michigan University!
 
-![Darts Mod](assets/github_x_wmuhack.png)
+![Github x Hackathon](assets/github_x_wmuhack.png)
 
 ### About Us
 
