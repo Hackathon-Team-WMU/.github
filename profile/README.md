@@ -1,10 +1,10 @@
-# Hackathon Team WMU
+# Hackathon Team @ WMU
 
-## Hackathon Team for Developer Club at WMU
+## Let's start building.
 
 ---
 
-Welcome to the official GitHub organization for the Hackathon Team of the Developer Club at Western Michigan University (WMU)!
+Welcome to the official GitHub organization for the Hackathon Team of the Developer Club at Western Michigan University!
 
 ### About Us
 
@@ -20,7 +20,8 @@ Stay tuned for information about the hackathons we're currently participating in
 
 Here you'll find repositories for projects we've developed in previous hackathons.
 
-* *[https://github.com/Hackathon-Team-WMU/partygames]* - (1st Place) Built a minecraft neoforge mod that adds throwing darts into minecraft, challenge friends and track your score.
+*[https://github.com/Hackathon-Team-WMU/partygames]* - (1st Place) Built a minecraft neoforge mod that adds throwing darts into minecraft, challenge friends and track your score.
+![Darts Mod](assets/darts_1st_place_fixed.png)
 
 ### 🤝 How to Join / Get Involved
 
