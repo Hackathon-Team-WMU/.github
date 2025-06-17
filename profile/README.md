@@ -19,7 +19,7 @@ We are a passionate group of student developers from the [Developer Club at WMU]
 
 Stay tuned for information about the hackathons we're currently participating in or planning to attend!
 
-* *[Sprint.dev Reactiflux Hackathon, May 23-26]*
+* Join our [discord](https://discord.com/invite/G9yE5s6NFM) to learn more!
 
 ### 🏆 Past Projects
 
